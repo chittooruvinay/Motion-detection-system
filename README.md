@@ -27,11 +27,12 @@ OpenCV
 
 📁 Project Structure
 MotionDetection/
+
 │── main.cpp
 
-│── input_video.mp4
+│── video.mp4
 
-│── output_video.mp4
+│── motion_output.mp4
 
 │── README.md
 
