@@ -28,12 +28,16 @@ OpenCV
 📁 Project Structure
 MotionDetection/
 │── main.cpp
+
 │── input_video.mp4
+
 │── output_video.mp4
+
 │── README.md
 
 ▶️ Running the Project
 g++ main.cpp -o motion `pkg-config --cflags --libs opencv4`
+
 ./motion
 
 🚀 Future Enhancements
